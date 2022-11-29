@@ -7,7 +7,7 @@ NeurIPS 2022
 Authors: Xiaoling Hu, Stony Brook University
 
 ```
-@inproceedings{cldice2021,
+@inproceedings{hu2022structure,
   title={Structure-Aware Image Segmentation with Homotopy Warping},
   author={Xiaoling Hu},
   booktitle={Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)},
